@@ -18,7 +18,7 @@ https://rapidapi.com/apilab01/api/paraphrasing-lab
 
 •	Import the Paraphraser module from the Mendix Marketplace.
 
-•	Call the microflow ACT_CallParaphraserAPI in the Navigation.
+•	Call the microflow ACT_Output_CreateObject in the Navigation.
 
 •	The microflow triggers and takes you to the Paraphraser page where you can paste or type the text to rephrase.
 
